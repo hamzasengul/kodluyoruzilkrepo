@@ -4,4 +4,4 @@ Bu proje patika fronted eğitiminde oluşturduğum ilk repo. İçerisinde bir ad
 ## INSTALLATION 
 Öncelikle projeyi clonelayın. ( buraya sizin reponuzdan aldığınız link gelecek )
 
-' git clone https://github.com/hamzasengul/kodluyoruzilkrepo.git '
+' gh repo clone hamzasengul/kodluyoruzilkrepo '
